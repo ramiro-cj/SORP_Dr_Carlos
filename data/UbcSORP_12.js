@@ -1,0 +1,1 @@
+var json_UbcSORP_12 = {"type":"FeatureCollection","name":"UbcSORP_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"SORP"},"geometry":{"type":"Point","coordinates":[-103.372513133564425,20.722821388222794]}}]}
